@@ -1,7 +1,7 @@
 //Imports
 import React from "react";
 import "./About.css";
-import avitar from "../../../images/Jaime-Image.jpg";
+import avitar from "../../../images/Avitar.jpg";
 import CardMedia from "@mui/material/CardMedia";
 
 // Function that renders the about page & exports
@@ -26,20 +26,9 @@ export default function About() {
             <div style={{ width: "70%", margin: "0 auto" }}>
                 <h1 id="about-me-title">About Me</h1>
                 <p id="p-about">
-                    Hello! World
+                    Hello World! I am Jaime Quezada, a full stack developing student with a background in Automation and Manufacturing Engineering. I look forward to starting and exiting carreer in the Tech industry and expand my skills!.
                 </p>
-                <p id="p-about">
-                    About
-                    <p id="p-about">
-                        About
-                    </p>
-                    <p id="p-about">
-                        About
-                    </p>
-                    <p id="p-about">
-                        About
-                    </p>
-                </p></div>
+            </div>
         </>
     );
 }

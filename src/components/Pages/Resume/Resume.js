@@ -1,7 +1,5 @@
 //Imports
 import React from "react";
-// import resume1 from "../../../images/resume1.png"
-// import resume2 from "../../../images/resume2.png";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
 import PdfFile from "../../../Resumé.pdf";
