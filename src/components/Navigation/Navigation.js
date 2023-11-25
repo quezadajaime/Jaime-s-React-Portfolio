@@ -1,11 +1,9 @@
 // Imports
 import React from "react";
 import "./Navigation.css";
-import Box from "@mui/material/Box";
-import { Button } from "@mui/material";
-import useTab from "@mui/base/useTab";
 
-const pages = ["About", "Portfolio", "Contact", "Resume"];
+
+//const pages = ["About", "Portfolio", "Contact", "Resume"];
 
 // Function that renders nav links and calls setCurrentPage allowing state to be changed
 function Navigation({ currentPage, setCurrentPage, handleCloseNavMenu }) {
