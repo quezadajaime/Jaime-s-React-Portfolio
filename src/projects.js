@@ -24,26 +24,26 @@ export const projects = [
     },
 
     {
-        projectTitle: "Psychic-Broccoli-A-Blog",
-        description: ".",
-        imageLink: "",
-        liveLink: "",
-        gitHub: "",
+        projectTitle: "Javascript-quiz ",
+        description: "This is a multiple choice quiz, about JavaScript",
+        imageLink: "https://github.com/quezadajaime/Javascript-quiz/assets/136545874/cb291a25-ceb3-44e6-95ea-0ad376c81845",
+        liveLink: "https://quezadajaime.github.io/Javascript-quiz",
+        gitHub: "https://github.com/quezadajaime/Javascript-quiz.git",
     },
     {
         projectTitle: "Bookworm-Connection",
-        description: ".",
-        imageLink: "",
-        liveLink: "",
-        gitHub: "",
+        description: "Book Connection allows users to seach and add book into their acccount. They can also add their own reviews of the lates books that they have read. The reviews allow other users to see the highest rated books. Lastly, Book Connection allows you to recommend books to other users.",
+        imageLink: "https://github.com/Kayla-Sullens/Bookworm-Connection/assets/136545874/104b6754-58e8-45f4-9f50-bb165b7e6622",
+        liveLink: "https://aqueous-wildwood-40784-bbb428a30b2f.herokuapp.com/login",
+        gitHub: "https://github.com/Kayla-Sullens/Bookworm-Connection.git",
     },
 
     {
-        projectTitle: "Javascript-quiz",
-        description: ".",
-        imageLink: "",
-        liveLink: "",
-        gitHub: "",
+        projectTitle: "Psychic-Broccoli-A-Blog",
+        description: "This app was created to allow users to interact with other tech users. This app will store content the user inputs via the dashboard.",
+        imageLink: "https://github.com/quezadajaime/psychic-broccoli-a-blog/assets/136545874/55357af1-8ecc-4fa7-88d9-161357c47d07",
+        liveLink: "https://guarded-dawn-04199-ebefa317c03f.herokuapp.com/",
+        gitHub: "https://github.com/quezadajaime/psychic-broccoli-a-blog.git",
     },
 
 
